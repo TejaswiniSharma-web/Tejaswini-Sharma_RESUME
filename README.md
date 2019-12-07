@@ -1,7 +1,5 @@
-<htm>
-  <head>  </head>
+<html>
     <meta charset="utf-8">
-
   <body style="background-color: #fbdff0;">
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
@@ -12,15 +10,14 @@
       in managing a development project using Scrum,Agile.Skilled in conceptualization design,development and deploying software
       containing logical and mathematical solution to business problem.
     </p>
-    <hr>
+  <hr>
     <h5>Skill Highlited:</h5>
     <ul>
       <li>Web development</li>
       <li>CrossBrowser Operatibilty</li>
       <li>Project Mangemnt</li>
       <li>User Requirement gathering</li>
-
-    </ul>
+  </ul>
   </hr>
       <hr>
       <ul>
@@ -29,7 +26,6 @@
       </ul>
     </hr>
       <hr>
-
       <h5>Work Experience</h5>
       <p>Worked as a Hr Recruiter for 3 yr at symmetric Enterprises from nov 2016 till Jan 2019</p>
       </<hr>
@@ -44,5 +40,6 @@
         <li>Manual Testing</li>
         <li>Automation Testing</li>
       </ul>
+      </hr>
   </body>
 </html>
