@@ -1,9 +1,9 @@
 
 <html lang="en" dir="ltr">
-  <head>
+  <head>  </head>
     <meta charset="utf-8">
     <title>Tejaswini Sharma Resume</title>
-  </head>
+
   <body style="background-color: #fbdff0;">
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
