@@ -1,8 +1,6 @@
-
-<html lang="en" dir="ltr">
+<htm>
   <head>  </head>
     <meta charset="utf-8">
-    <title>Tejaswini Sharma Resume</title>
 
   <body style="background-color: #fbdff0;">
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
